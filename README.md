@@ -1,2 +1,2 @@
 # Property-Finder
-An app for searching UK property listings
+React native app for searching UK property listings
